@@ -1,0 +1,52 @@
+name: Drive watch
+
+# ---------------------------------------------------------------------------
+# WHEN THIS RUNS
+#
+#   schedule          every 15 minutes, unattended. This is the real thing.
+#                     Note: GitHub's minimum is 5 minutes, and scheduled runs
+#                     are NOT punctual - they drift. Never demo off the clock.
+#
+#   workflow_dispatch a manual "Run workflow" button. Fires in ~15 seconds,
+#                     every time. This is what you press in front of the class.
+# ---------------------------------------------------------------------------
+on:
+  schedule:
+    - cron: '*/15 * * * *'      # UTC. 9:00am IST daily would be '30 3 * * *'
+  workflow_dispatch:
+    inputs:
+      threshold:
+        description: 'Sign-off threshold in rupees'
+        required: false
+        default: '100000'
+
+# Two runs must never process the same file at once. Queue, do not overlap.
+concurrency:
+  group: drive-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -q -r requirements.txt
+
+      - name: Run the job
+        env:
+          # The key IS a secret - it is a credential.
+          GDRIVE_SA_KEY: ${{ secrets.GDRIVE_SA_KEY }}
+          # The folder id is NOT a secret. Knowing it grants nothing; access is
+          # controlled by which account the folder is shared with.
+          DRIVE_ROOT_ID: 1PRLOxKbwjRo2GnRI08uaVL9OmU3WfiwC
+          THRESHOLD: ${{ github.event.inputs.threshold || '100000' }}
+        run: python run_job.py

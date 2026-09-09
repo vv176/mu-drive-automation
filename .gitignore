@@ -1,0 +1,6 @@
+.venv/
+*.json
+!requirements.json
+__pycache__/
+.DS_Store
+state/

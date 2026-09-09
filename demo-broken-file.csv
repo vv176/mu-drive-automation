@@ -1,0 +1,501 @@
+order_id,order_date,customer_name,customer_segment,region,sales_rep,product_category,units,unit_price,discount_pct,order_amount,payment_terms,status,delivery_days
+MER-100949,2026-08-28,Customer 3658,SMB,South,Vikram Shah,Pneumatics,2,6030.15,5,11457.28,Net 30,Delivered,4
+MER-102397,2026-07-13,Customer 4736,Mid-Market,South,Sneha Kulkarni,Safety Equipment,2,1532.13,0,3064.26,Net 60,delivered,3
+MER-103368,2026-08-10,Customer 1627,Mid-Market,South,Anita Rao,Power Tools,10,8293.09,5,104191.37,Net 30,DELIVERED,21
+MER-103605,2026-07-09,Customer 4879,SMB,East,Meera Iyer,Fasteners,3,335.62,0,1006.86,Prepaid,Delivered,15
+MER-103559,2026-08-09,Customer 2685,Mid-Market,West,Meera Iyer,Fasteners,10,307.36,5,2919.92,Prepaid,Delivered,19
+MER-103678,2026-08-02,Customer 3175,Mid-Market,East,Rahul Nair,Hand Tools,2,1006.24,5,1911.86,Prepaid,Pending,
+MER-103875,2026-07-25,Customer 1878,Mid-Market,North,Rahul Nair,Safety Equipment,10,1751.00,8,16109.20,Net 30,Delivered,20
+MER-100696,2026-08-07,Customer 3551,SMB, North,Rahul Nair,Safety Equipment,5,1875.22,0,9376.10,Net 30,Delivered,14
+MER-102446,2026-07-25,Customer 1778,Mid-Market,North,Anita Rao,Bearings & Drives,2,4626.00,10,8326.80,Net 30,Cancelled,
+MER-103444,2026-09-06,Customer 4333,Mid-Market,North,Karan Bhatia,Pneumatics,5,4801.30,5,22806.17,Prepaid,Delivered,14
+MER-101230,2026-08-05,Customer 1349,Mid-Market,East,Anita Rao,Pneumatics,5,5913.59,0,40177.87,Prepaid,DELIVERED,9
+MER-102465,2026-07-25,Customer 2612,Mid-Market,East,Karan Bhatia,Bearings & Drives,5,4484.15,0,22420.75,Net 30,DELIVERED,9
+MER-101795,2026-09-06,Customer 3967,SMB,South,Arjun Desai,Bearings & Drives,1,3850.23,5,3657.72,Net 60,Delivered,6
+MER-101010,2026-07-01,Customer 2251,Enterprise,West,Karan Bhatia,Pneumatics,100,4621.01,5,438995.95,Net 30,RETURNED,14
+MER-100606,2026-09-02,Customer 1861,Mid-Market,West,Arjun Desai,Bearings & Drives,5,3652.02,0,18260.10,Net 30,Delivered,5
+MER-101328,2026-09-23,Customer 2318,Enterprise,West,Karan Bhatia,Safety Equipment,25,2100.68,5,49891.15,Net 30,Delivered,2
+MER-102820,2026-08-10,Customer 3792,Mid-Market,South,Meera Iyer,Pneumatics,10,5891.90,0,58919.00,Prepaid,Delivered,19
+MER-103525,2026-08-14,Customer 1390,SMB,East,Vikram Shah,Power Tools,3,7944.65,5,22642.25,Prepaid,Returned,10
+MER-103576,2026-08-18,Customer 4057,SMB,West,Anita Rao,Safety Equipment,1,1580.48,0,2406.64,Prepaid,delivered,14
+MER-100105,2026-08-28,Customer 1740,SMB,West,Anita Rao,Pneumatics,3,6282.05,0,18846.15,Net 30,delivered,7
+MER-103412,2026-08-29,Customer 3026,SMB,South,Sneha Kulkarni,Fasteners,1,355.15,5,337.39,Net 30,Delivered,5
+MER-101764,2026-07-06,Customer 2166,Enterprise,East,Arjun Desai,Lubricants,25,1587.80,10,35725.50,Net 30,Delivered,3
+MER-102648,2026-09-26,Customer 3749,Mid-Market,South ,Vikram Shah,Lubricants,10,1564.12,0,15641.20,Net 30,Delivered,10
+MER-103073,2026-09-17,Customer 1426,Mid-Market,East,Anita Rao,Safety Equipment,5,1655.47,0,8277.35,Net 30,Delivered,21
+MER-102426,2026-09-04,Customer 3062,Mid-Market,East,Sneha Kulkarni,Power Tools,2,7546.46,8,13885.49,Net 30,Delivered,3
+MER-100736,2026-08-10,Customer 2511,Enterprise,East,Meera Iyer,Electricals,50,3323.09,12,146215.96,Net 60,CANCELLED,
+MER-100137,2026-07-18,Customer 3484,Mid-Market,North,Sneha Kulkarni,Hand Tools,5,870.66,0,4353.30,Net 60,Cancelled,
+MER-100752,2026-08-27,Customer 3166,SMB,West,Rahul Nair,Electricals,2,3458.62,0,6917.24,Net 30,Delivered,21
+MER-102378,2026-07-09,Customer 4643,Mid-Market,East,Karan Bhatia,Pneumatics,25,5352.61,10,120433.73,Prepaid,Delivered,13
+MER-100044,2026-07-12,Customer 1509,SMB,East,Arjun Desai,Pneumatics,1,5471.60,0,5471.60,Net 30,pending,
+MER-100955,2026-07-27,Customer 2282,SMB,South,Priya Menon,Pneumatics,1,5124.09,5,4867.89,Prepaid,Delivered,2
+MER-102996,2026-08-07,Customer 2025,SMB,West,Anita Rao,Lubricants,3,1307.96,0,3923.88,Prepaid,delivered,6
+MER-103580,2026-09-11,Customer 2719,Mid-Market,South,Sneha Kulkarni,Safety Equipment,10,1959.93,0,19599.30,Net 60,Delivered,11
+MER-103376,2026-07-11,Customer 3990,SMB,North,Meera Iyer,Hand Tools,2,825.18,0,1650.36,Net 60,Delivered,11
+MER-100218,2026-07-26,Customer 2824,Mid-Market,South,Sneha Kulkarni,Fasteners,2,372.90,5,708.51,Net 30,delivered,17
+MER-101582,2026-09-03,Customer 4137,SMB,North,Arjun Desai,Pneumatics,1,6336.89,0,6336.89,Net 30,Delivered,6
+MER-102207,2026-07-14,Customer 4389,SMB,West,Rahul Nair,Pneumatics,2,5502.72,0,11005.44,Net 60,Delivered,11
+MER-103062,2026-09-08,Customer 2929,Mid-Market,West,Meera Iyer,Hand Tools,10,1056.06,0,10560.60,Net 30,Delivered,18
+MER-102674,2026-08-23,Customer 3977,SMB,North,Karan Bhatia,Safety Equipment,3,1606.20,0,4818.60,Net 60,Returned,8
+MER-102232,2026-09-13,Customer 1922,SMB,North,Karan Bhatia,Lubricants,1,1442.08,5,1369.98,Net 30,Cancelled,
+MER-103518,2026-08-05,Customer 2219,SMB,South,Rahul Nair,Power Tools,3,6844.77,0,20534.31,Net 60,Delivered,9
+MER-101814,2026-08-14,Customer 1779,Enterprise,North,Vikram Shah,Electricals,10,3084.55,10,27760.95,Net 30,Delivered,14
+MER-101135,2026-07-18,Customer 1528,SMB,North,Meera Iyer,Fasteners,2,313.00,0,626.00,Prepaid,Delivered,20
+MER-101827,2026-07-03,Customer 2212,SMB,West,Sneha Kulkarni,Bearings & Drives,5,4558.68,0,22793.40,Net 30,Pending,
+MER-103987,2026-07-18,Customer 4441,Enterprise,East,Priya Menon,Bearings & Drives,10,4527.57,5,43011.91,Prepaid,Delivered,17
+MER-100656,2026-07-28,Customer 1407,Mid-Market,East,Sneha Kulkarni,Lubricants,10,1359.30,0,13593.00,Prepaid,Delivered,4
+MER-102013,2026-09-21,Customer 4874,SMB,North,Meera Iyer,Lubricants,2,1380.09,5,2622.17,Net 30,RETURNED,3
+MER-102739,2026-07-29,Customer 1345,Mid-Market,South,Arjun Desai,Electricals,2,3127.46,10,5629.43,Prepaid,Delivered,18
+MER-101406,2026-09-26,Customer 3381,SMB,North,Arjun Desai,Fasteners,1,304.69,0,304.69,Prepaid,Delivered,13
+MER-101029,2026-07-21,Customer 1621,SMB,West,Anita Rao,Pneumatics,5,4735.56,5,37170.08,Net 30,delivered,2
+MER-103328,2026-08-16,Customer 2454,SMB,North,Vikram Shah,Electricals,5,3056.17,0,15280.85,Net 60,delivered,15
+MER-102079,2026-07-26,Customer 2038,SMB,South,Rahul Nair,Bearings & Drives,5,4599.37,5,21847.01,Prepaid,Delivered,10
+MER-103109,2026-07-15,Customer 1342,SMB,South,Sneha Kulkarni,Power Tools,1,8338.07,5,7921.17,Net 60,Delivered,6
+MER-101697,2026-09-30,Customer 2300,Mid-Market, West,Karan Bhatia,Hand Tools,5,813.66,5,3864.88,Net 30,Delivered,11
+MER-100734,2026-07-16,Customer 2026,Enterprise,East,Arjun Desai,Fasteners,5,371.29,12,1633.68,Net 60,Delivered,21
+MER-103002,2026-08-15,Customer 4758,SMB,East,Arjun Desai,Hand Tools,1,906.87,0,906.87,Net 30,Delivered,14
+MER-101332,2026-08-01,Customer 2606,Mid-Market,East,Karan Bhatia,Pneumatics,10,6137.07,8,56461.04,Prepaid,Delivered,2
+MER-103228,2026-07-03,Customer 4106,Mid-Market,West,Meera Iyer,Fasteners,2,337.65,5,641.53,Net 60,Delivered,21
+MER-103781,2026-08-07,Customer 4437,Enterprise,North,Vikram Shah,Bearings & Drives,10,4950.26,15,42077.21,Net 30,Returned,12
+MER-101193,2026-09-11,Customer 3709,Mid-Market,West,Meera Iyer,Fasteners,5,278.51,8,1281.15,Net 30,Delivered,19
+MER-103577,2026-08-30,Customer 3603,SMB,North,Arjun Desai,Pneumatics,2,4624.92,5,8787.35,Net 30,Delivered,12
+MER-103422,2026-08-14,Customer 4388,Mid-Market,West,Arjun Desai,Safety Equipment,5,1676.34,10,7543.53,Net 60,cancelled,
+MER-103814,2026-09-19,Customer 2576,Mid-Market,West,Anita Rao,Power Tools,5,8127.70,0,70996.00,Net 60,Delivered,21
+MER-102669,2026-08-14,Customer 3862,Enterprise,South,Anita Rao,Electricals,10,3190.50,0,31905.00,Net 60,Delivered,12
+MER-101446,2026-09-19,Customer 4447,SMB,North,Karan Bhatia,Lubricants,5,1506.21,0,7531.05,Net 30,Pending,
+MER-100619,2026-07-19,Customer 4631,SMB,South,Rahul Nair,Lubricants,3,1515.46,0,4546.38,Net 30,Delivered,15
+MER-102631,2026-08-24,Customer 4465,Enterprise,South,Anita Rao,Fasteners,5,307.86,8,2479.14,Net 60,delivered,19
+MER-101309,2026-07-07,Customer 3132,Enterprise,South,Rahul Nair,Lubricants,10,1342.87,0,13428.70,Net 30,Cancelled,
+MER-102358,2026-08-06,Customer 2031,Mid-Market,South,Arjun Desai,Fasteners,2,363.92,0,727.84,Net 30,cancelled,
+MER-100121,2026-07-15,Customer 1688,SMB,East,Sneha Kulkarni,Hand Tools,2,924.96,0,1849.92,Net 30,delivered,13
+MER-101715,2026-08-06,Customer 3559,SMB,South,Vikram Shah,Hand Tools,1,1112.19,5,1056.58,Net 30,Returned,14
+MER-103248,2026-09-11,Customer 4411,Mid-Market,South,Sneha Kulkarni,Hand Tools,10,977.84,0,9778.40,Prepaid,Delivered,2
+MER-100682,2026-09-02,Customer 4693,Enterprise,North,Meera Iyer,Pneumatics,25,4948.88,15,105163.70,Net 30,Delivered,4
+MER-101668,2026-08-02,Customer 2697,SMB,West,Anita Rao,Safety Equipment,3,1841.60,5,8823.30,Net 30,Delivered,4
+MER-101936,2026-09-06,Customer 2367,Mid-Market,North,Anita Rao,Power Tools,10,6957.44,10,94081.43,Net 30,Delivered,6
+MER-100777,2026-08-01,Customer 4195,SMB,South,Priya Menon,Lubricants,2,1407.65,0,2815.30,Net 60,Delivered,21
+MER-102697,2026-09-29,Customer 4115,Mid-Market, West,Sneha Kulkarni,Pneumatics,5,6315.46,10,28419.57,Net 30,Delivered,13
+MER-100828,2026-09-07,Customer 1861,Mid-Market,East,Priya Menon,Hand Tools,5,848.06,8,3901.08,Net 30,Cancelled,
+MER-102250,2026-07-28,Customer 4875,Mid-Market,South,Karan Bhatia,Fasteners,2,330.66,0,661.32,Net 30,Delivered,12
+MER-101771,2026-09-04,Customer 4844,Enterprise,West,Vikram Shah,Safety Equipment,50,1546.11,8,127967.86,Net 60,delivered,4
+MER-102926,2026-09-22,Customer 3246,SMB,South,Meera Iyer,Lubricants,2,1543.17,0,3086.34,Prepaid,Delivered,16
+MER-103063,2026-08-07,Customer 4191,Mid-Market, West,Arjun Desai,Lubricants,5,1559.92,8,7175.63,Net 60,Delivered,12
+MER-102511,2026-07-08,Customer 1848,Enterprise,West,Meera Iyer,Electricals,10,3636.58,0,67273.12,Net 30,Pending,
+MER-102453,2026-07-10,Customer 2589,SMB,South,Karan Bhatia,Power Tools,1,6549.54,0,6549.54,Net 60,DELIVERED,14
+MER-103788,2026-09-01,Customer 3692,Enterprise,West,Karan Bhatia,Pneumatics,25,4688.90,5,111361.37,Prepaid,Returned,16
+MER-101424,2026-07-19,Customer 1473,Enterprise,South,Sneha Kulkarni,Electricals,100,2851.08,15,242341.80,Prepaid,Delivered,9
+MER-103948,2026-09-28,Customer 1706,SMB,South,Vikram Shah,Electricals,1,3194.37,0,3194.37,Net 30,Delivered,2
+MER-100537,2026-08-09,Customer 4136,Small Business,North,Vikram Shah,Hand Tools,2,1043.00,0,2086.00,Net 30,Delivered,11
+MER-100686,2026-08-20,Customer 1568,Mid-Market,East,Anita Rao,Bearings & Drives,5,4730.14,0,23650.70,Prepaid,Pending,
+MER-102923,2026-08-24,Customer 1633,Enterprise,West,Vikram Shah,Fasteners,100,299.26,15,25437.10,Net 30,DELIVERED,17
+MER-100660,2026-08-09,Customer 2381,SMB,West,Rahul Nair,Safety Equipment,3,1672.69,5,4767.17,Prepaid,Delivered,13
+MER-103439,2026-07-11,Customer 2053,Mid-Market,North,Priya Menon,Pneumatics,10,4652.15,0,46521.50,Net 30,delivered,14
+MER-103627,2026-08-05,Customer 4907,Mid-Market,West,Rahul Nair,Pneumatics,10,6362.35,0,63623.50,Net 60,Delivered,9
+MER-100341,2026-08-10,Customer 3833,SMB,West,Anita Rao,Pneumatics,5,5057.70,0,33510.43,Net 30,PENDING,
+MER-101707,2026-09-06,Customer 2908,SMB,South,Priya Menon,Safety Equipment,1,1889.57,0,1889.57,Net 30,Delivered,8
+MER-103560,2026-08-04,Customer 2126,Enterprise,West,Rahul Nair,Fasteners,5,298.35,10,2534.63,Net 30,Delivered,18
+MER-102438,2026-09-05,Customer 2456,SMB,East,Rahul Nair,Lubricants,3,1489.36,5,4244.68,Prepaid,delivered,8
+MER-103569,2026-09-09,Customer 3924,Mid-Market,West,Arjun Desai,Electricals,5,2788.15,5,13243.71,Net 60,Delivered,7
+MER-102540,2026-08-22,Customer 2284,Mid-Market,West,Meera Iyer,Safety Equipment,5,1859.64,8,8554.34,Net 30,delivered,20
+MER-102133,2026-07-23,Customer 2029,SMB,North ,Meera Iyer,Power Tools,3,7936.81,0,23810.43,Net 30,Delivered,17
+MER-103625,2026-09-29,Customer 2277,Enterprise,North,Karan Bhatia,Pneumatics,5,5216.97,12,22954.67,Prepaid,Delivered,14
+MER-102641,2026-07-06,Customer 3486,SMB, West,Rahul Nair,Bearings & Drives,1,4253.49,0,4253.49,Net 60,Delivered,5
+MER-100901,2026-09-08,Customer 2446,Small Business,South,Anita Rao,Bearings & Drives,1,3696.21,5,3511.40,Net 60,Delivered,7
+MER-101805,2026-07-23,Customer 1011,SMB,North,Anita Rao,Hand Tools,1,1089.16,0,1089.16,Net 30,Delivered,18
+MER-100970,2026-08-08,Customer 3552,SMB,West,Vikram Shah,Hand Tools,1,1070.23,0,,Net 30,Delivered,2
+MER-102139,2026-08-02,Customer 4900,Small Business, South,Karan Bhatia,Power Tools,3,6583.74,0,19751.22,Prepaid,DELIVERED,5
+MER-103662,2026-09-25,Customer 4076,SMB,East,Karan Bhatia,Lubricants,2,1340.53,0,2681.06,Net 30,Pending,
+MER-101832,2026-09-29,Customer 4344,Mid-Market,North,Arjun Desai,Fasteners,25,286.19,8,6582.37,Prepaid,Delivered,19
+MER-102106,2026-08-27,Customer 3763,SMB,West,Anita Rao,Electricals,3,2918.00,0,13874.43,Net 30,Delivered,8
+MER-100976,2026-07-09,Customer 3606,Small Business,West ,Vikram Shah,Bearings & Drives,2,3630.97,5,6898.84,Prepaid,Delivered,20
+MER-100597,2026-08-17,Customer 1103,Mid-Market, South,Rahul Nair,Power Tools,2,6854.17,0,13708.34,Net 30,delivered,18
+MER-103318,2026-07-16,Customer 2029,Enterprise,West,Meera Iyer,Pneumatics,10,6204.15,12,115776.38,Net 60,delivered,14
+MER-102061,2026-07-15,Customer 4130,SMB,West,Meera Iyer,Bearings & Drives,3,4909.16,0,14727.48,Prepaid,Delivered,19
+MER-100194,2026-08-07,Customer 1724,SMB,North,Meera Iyer,Power Tools,1,7422.01,0,7422.01,Net 60,Pending,
+MER-101825,2026-08-27,Customer 4171,Mid-Market,East,Anita Rao,Electricals,5,3615.25,0,18076.25,Net 30,Delivered,21
+MER-101819,2026-09-11,Customer 1396,Enterprise,West,Anita Rao,Bearings & Drives,50,4305.27,10,193737.15,Net 30,Delivered,6
+MER-103706,2026-09-21,Customer 3847,Mid-Market,West,Rahul Nair,Power Tools,5,8541.57,0,42707.85,Net 30,Delivered,8
+MER-103411,2026-08-17,Customer 1419,SMB,West,Sneha Kulkarni,Bearings & Drives,2,3796.54,0,7593.08,Net 60,Cancelled,
+MER-102905,2026-09-17,Customer 3548,Enterprise,West,Karan Bhatia,Lubricants,50,1442.14,8,110874.80,Prepaid,Delivered,5
+MER-102376,2026-07-07,Customer 4207,Mid-Market,East,Priya Menon,Safety Equipment,10,1960.83,8,18039.64,Net 60,Delivered,11
+MER-102976,2026-09-03,Customer 4052,SMB,East,Meera Iyer,Hand Tools,5,1041.76,0,5208.80,Net 60,DELIVERED,4
+MER-101786,2026-07-14,Customer 3367,Mid-Market,North ,Sneha Kulkarni,Power Tools,10,7932.71,0,79327.10,Prepaid,Delivered,5
+MER-102314,2026-08-27,Customer 4294,SMB,West,Rahul Nair,Safety Equipment,2,1990.56,0,3981.12,Prepaid,Delivered,14
+MER-103189,2026-07-16,Customer 4043,Enterprise,South,Vikram Shah,Safety Equipment,50,1982.67,0,99133.50,Net 60,CANCELLED,
+MER-103804,2026-08-05,Customer 4671,SMB,West,Karan Bhatia,Bearings & Drives,5,4151.44,5,19719.34,Prepaid,Pending,
+MER-100147,2026-07-04,Customer 4026,Enterprise,South,Karan Bhatia,Lubricants,5,1365.53,15,5803.50,Prepaid,Cancelled,
+MER-100250,2026-08-02,Customer 2377,Mid-Market,East,Rahul Nair,Hand Tools,2,906.57,5,1722.48,Net 60,Cancelled,
+MER-101055,2026-08-07,Customer 4129,Enterprise,West,Sneha Kulkarni,Fasteners,100,370.61,15,68053.27,Net 60,Delivered,6
+MER-103105,2026-07-08,Customer 4500,SMB,North,Priya Menon,Pneumatics,1,4644.29,5,4412.08,Net 30,Delivered,6
+MER-102658,2026-07-19,Customer 1106,Small Business,North,Arjun Desai,Hand Tools,3,1030.97,0,3092.91,Net 30,Delivered,4
+MER-100379,2026-08-23,Customer 2329,Mid-Market,West,Karan Bhatia,Bearings & Drives,5,3657.12,5,17371.32,Net 30,Pending,
+MER-103650,2026-09-29,Customer 3645,SMB,South,Meera Iyer,Lubricants,1,1375.44,5,1306.67,Net 30,returned,10
+MER-102333,2026-08-01,Customer 1155,SMB,West,Anita Rao,Safety Equipment,2,1979.91,0,6725.90,Net 30,Delivered,11
+MER-102764,2026-08-17,Customer 2900,Mid-Market,South,Rahul Nair,Power Tools,2,8441.74,10,15195.13,Net 30,Delivered,13
+MER-102408,2026-09-24,Customer 3095,SMB,West,Arjun Desai,Bearings & Drives,2,4505.88,0,9011.76,Net 30,Delivered,16
+MER-102533,2026-07-11,Customer 1729,Mid-Market, North,Arjun Desai,Pneumatics,2,5000.19,0,10000.38,Net 60,Delivered,3
+MER-101951,2026-08-22,Customer 2572,SMB,North,Arjun Desai,Hand Tools,2,965.97,5,1835.34,Prepaid,Pending,
+MER-103195,2026-08-11,Customer 2084,SMB,East,Vikram Shah,Hand Tools,1,1018.04,5,967.14,Prepaid,PENDING,
+MER-101958,2026-08-31,Customer 1712,Mid-Market,North,Priya Menon,Power Tools,5,7396.83,5,35134.94,Net 30,Delivered,8
+MER-101173,2026-08-24,Customer 4542,SMB,West,Sneha Kulkarni,Pneumatics,2,5687.80,0,11375.60,Prepaid,Cancelled,
+MER-103714,2026-07-28,Customer 1767,Enterprise,North,Sneha Kulkarni,Safety Equipment,5,1922.21,0,9611.05,Prepaid,Delivered,15
+MER-100000,2026-07-16,Customer 3118,Mid-Market,North,Rahul Nair,Power Tools,10,8394.29,5,79745.76,Net 60,delivered,17
+MER-103008,2026-07-27,Customer 1848,Enterprise,South,Priya Menon,Electricals,50,3368.44,12,148211.36,Prepaid,Delivered,5
+MER-103140,2026-09-24,Customer 4692,SMB,West,Arjun Desai,Hand Tools,2,901.16,0,1802.32,Net 60,Delivered,14
+MER-102676,2026-08-29,Customer 3021,Mid-Market,North,Arjun Desai,Bearings & Drives,10,4854.96,0,48549.60,Net 30,Delivered,4
+MER-103623,2026-07-11,Customer 2910,SMB,South,Anita Rao,Power Tools,1,7298.36,0,7298.36,Prepaid,Delivered,12
+MER-101342,2026-08-02,Customer 2000,Mid-Market,North,Anita Rao,Hand Tools,25,857.47,8,19721.81,Net 60,Delivered,10
+MER-100488,2026-08-23,Customer 4921,SMB,North,Sneha Kulkarni,Lubricants,1,1406.03,0,1406.03,Net 60,delivered,6
+MER-101751,2026-07-31,Customer 1819,Enterprise,North,Meera Iyer,Fasteners,50,287.37,10,12931.65,Net 30,Delivered,17
+MER-103818,2026-09-28,Customer 4442,Small Business,North,Arjun Desai,Bearings & Drives,5,4374.21,0,21871.05,Net 30,Delivered,4
+MER-101931,2026-07-24,Customer 2151,Small Business,South,Karan Bhatia,Lubricants,1,1235.59,0,1235.59,Net 30,Delivered,15
+MER-101110,2026-09-21,Customer 4776,SMB,West,Vikram Shah,Hand Tools,1,1096.80,0,1096.80,Net 60,Delivered,7
+MER-103079,2026-09-18,Customer 3161,Mid-Market,South,Arjun Desai,Pneumatics,5,4821.29,0,24106.45,Net 30,Cancelled,
+MER-100909,2026-09-21,Customer 1952,Mid-Market,North,Rahul Nair,Lubricants,5,1275.87,5,6060.38,Net 30,Delivered,6
+MER-100306,2026-07-13,Customer 2423,Mid-Market,South,Priya Menon,Fasteners,25,349.88,0,8747.00,Net 30,Delivered,7
+MER-102113,2026-08-21,Customer 2083,SMB,West,Vikram Shah,Fasteners,1,295.05,0,295.05,Prepaid,Delivered,11
+MER-100318,2026-08-09,Customer 4494,Small Business,West,Vikram Shah,Power Tools,3,8412.66,5,23976.08,Net 30,Cancelled,
+MER-102773,2026-09-01,Customer 2964,SMB,East,Anita Rao,Safety Equipment,1,1946.47,5,3488.26,Net 30,Delivered,5
+MER-100565,2026-08-13,Customer 3089,SMB,West,Priya Menon,Hand Tools,1,881.49,5,837.42,Net 60,Delivered,19
+MER-100771,2026-09-13,Customer 4453,SMB,West,Vikram Shah,Safety Equipment,3,1555.15,0,4665.45,Net 30,delivered,12
+MER-100634,2026-08-11,Customer 4313,SMB,North,Karan Bhatia,Bearings & Drives,3,4594.89,0,,Prepaid,Delivered,17
+MER-101566,2026-08-05,Customer 4788,Mid-Market,North,Vikram Shah,Fasteners,5,312.37,0,1561.85,Net 60,Delivered,5
+MER-103700,2026-07-29,Customer 3702,SMB,North,Vikram Shah,Bearings & Drives,1,4763.85,0,4763.85,Net 30,Delivered,19
+MER-103723,2026-08-09,Customer 2689,SMB,East,Karan Bhatia,Electricals,1,2729.44,0,2729.44,Net 60,DELIVERED,20
+MER-100478,2026-09-26,Customer 3742,Mid-Market,South,Vikram Shah,Bearings & Drives,2,4190.14,0,8380.28,Net 30,delivered,4
+MER-102024,2026-07-19,Customer 4373,Mid-Market,West,Anita Rao,Safety Equipment,5,1905.44,8,,Net 60,Delivered,8
+MER-103014,2026-08-07,Customer 1188,Mid-Market,West,Priya Menon,Lubricants,5,1609.25,5,7643.94,Net 30,DELIVERED,3
+MER-103764,2026-07-23,Customer 3976,Mid-Market,South,Meera Iyer,Electricals,2,3386.87,8,6231.84,Net 30,Delivered,2
+MER-101240,2026-09-23,Customer 3015,Small Business,South,Anita Rao,Lubricants,2,1457.43,0,3989.79,Net 30,Delivered,6
+MER-103429,2026-09-30,Customer 3870,SMB,West,Arjun Desai,Power Tools,1,8090.98,5,7686.43,Net 30,Delivered,3
+MER-103457,2026-08-23,Customer 4102,SMB,West,Vikram Shah,Lubricants,1,1557.42,0,1557.42,Net 30,Delivered,21
+MER-101331,2026-08-03,Customer 3234,Mid-Market,North,Arjun Desai,Pneumatics,5,5551.37,5,26369.01,Prepaid,Delivered,7
+MER-101914,2026-08-02,Customer 4670,Enterprise,West,Arjun Desai,Safety Equipment,5,1660.41,12,7305.80,Net 30,Delivered,10
+MER-102827,2026-09-28,Customer 4999,Small Business,South,Karan Bhatia,Hand Tools,3,1034.35,0,3103.05,Prepaid,CANCELLED,
+MER-102396,2026-07-15,Customer 2007,Mid-Market,East,Karan Bhatia,Electricals,5,2940.29,0,14701.45,Net 30,DELIVERED,3
+MER-101317,2026-09-05,Customer 4142,SMB,North,Vikram Shah,Electricals,2,3521.48,0,7042.96,Net 30,Delivered,11
+MER-103654,2026-07-11,Customer 4027,SMB,West,Arjun Desai,Hand Tools,2,1036.93,0,2073.86,Prepaid,Delivered,5
+MER-103395,2026-08-21,Customer 3765,Mid-Market,West,Sneha Kulkarni,Power Tools,5,7211.58,5,34255.00,Net 60,delivered,19
+MER-103629,2026-08-17,Customer 2819,Mid-Market,East,Sneha Kulkarni,Lubricants,5,1289.02,5,6122.85,Net 30,PENDING,
+MER-102891,2026-09-08,Customer 1556,SMB,West,Anita Rao,Bearings & Drives,3,4035.40,5,11500.89,Net 30,Delivered,16
+MER-102025,2026-08-16,Customer 4655,Mid-Market,East,Vikram Shah,Bearings & Drives,5,3964.31,5,18830.47,Net 30,Delivered,12
+MER-103720,2026-08-26,Customer 1718,Enterprise,South,Anita Rao,Safety Equipment,25,1879.81,15,39945.96,Net 30,Delivered,12
+MER-101396,2026-07-16,Customer 3456,Mid-Market,East,Priya Menon,Fasteners,5,356.99,0,1784.95,Prepaid,DELIVERED,9
+MER-101226,2026-07-20,Customer 3042,Mid-Market,West,Karan Bhatia,Lubricants,10,1275.14,10,11476.26,Net 60,delivered,12
+MER-101552,2026-09-17,Customer 4162,Mid-Market,East,Vikram Shah,Lubricants,25,1570.49,8,36121.27,Net 60,Delivered,11
+MER-101352,2026-08-20,Customer 4286,SMB,East,Vikram Shah,Electricals,2,3513.75,0,7027.50,Prepaid,Delivered,9
+MER-101862,2026-09-27,Customer 1347,Enterprise,West,Karan Bhatia,Lubricants,50,1686.37,8,157074.67,Net 30,DELIVERED,12
+MER-101008,2026-07-13,Customer 4394,Mid-Market,North ,Priya Menon,Power Tools,2,7573.14,10,13631.65,Net 30,Delivered,12
+MER-103509,2026-09-24,Customer 4431,Mid-Market,West,Vikram Shah,Pneumatics,5,5346.77,0,26733.85,Net 30,Delivered,14
+MER-101817,2026-09-12,Customer 1538,Mid-Market,West,Karan Bhatia,Power Tools,5,8824.95,5,41918.51,Net 30,Delivered,13
+MER-101514,2026-07-07,Customer 4924,Mid-Market,East,Arjun Desai,Pneumatics,10,5717.33,0,57173.30,Net 60,DELIVERED,11
+MER-100208,2026-08-27,Customer 1034,SMB,East,Vikram Shah,Pneumatics,0,4664.36,0,0.00,Net 30,Delivered,11
+MER-102677,2026-07-07,Customer 1993,SMB,West,Karan Bhatia,Bearings & Drives,1,4577.66,5,4348.78,Net 30,Delivered,9
+MER-100685,2026-08-27,Customer 4852,Mid-Market,South,Meera Iyer,Lubricants,2,1329.56,8,,Net 30,Pending,
+MER-101716,2026-07-05,Customer 1330,SMB,North,Anita Rao,Hand Tools,2,922.24,0,1844.48,Net 60,Delivered,12
+MER-101366,2026-09-26,Customer 4555,Enterprise,North,Sneha Kulkarni,Hand Tools,25,1091.32,0,27283.00,Prepaid,Delivered,18
+MER-103296,2026-09-03,Customer 3570,Enterprise,North,Meera Iyer,Bearings & Drives,5,4594.99,5,21826.20,Net 30,Delivered,18
+MER-100892,2026-07-14,Customer 1938,Mid-Market,South,Arjun Desai,Power Tools,2,8590.85,5,16322.61,Net 60,delivered,11
+MER-101846,2026-09-28,Customer 3847,Enterprise,West,Meera Iyer,Pneumatics,50,6065.36,12,266875.84,Prepaid,Returned,10
+MER-103389,2026-08-29,Customer 1577,Mid-Market, West,Priya Menon,Power Tools,2,8153.56,10,14676.41,Net 60,Pending,
+MER-103359,2026-08-09,Customer 1806,Mid-Market,North,Sneha Kulkarni,Lubricants,5,1589.18,0,7945.90,Net 30,DELIVERED,13
+MER-100347,2026-08-02,Customer 1408,SMB,North,Arjun Desai,Hand Tools,1,988.80,0,988.80,Prepaid,Delivered,8
+MER-101204,2026-08-21,Customer 1000,SMB,South,Meera Iyer,Lubricants,1,1493.93,5,1419.23,Prepaid,Delivered,11
+MER-101449,2026-07-19,Customer 4572,Small Business, West,Priya Menon,Bearings & Drives,1,4146.69,0,4146.69,Prepaid,Delivered,18
+MER-101797,2026-08-03,Customer 3045,Enterprise,West,Priya Menon,Hand Tools,5,970.63,12,4270.77,Prepaid,pending,
+MER-102115,2026-07-16,Customer 2955,Mid-Market,East,Vikram Shah,Bearings & Drives,2,3655.61,10,6580.10,Prepaid,Delivered,11
+MER-103865,2026-09-08,Customer 4970,SMB,West,Karan Bhatia,Safety Equipment,3,1887.31,5,5378.83,Net 30,delivered,16
+MER-102368,2026-07-28,Customer 4958,Enterprise,North,Priya Menon,Bearings & Drives,25,3636.71,12,80007.62,Net 30,CANCELLED,
+MER-100449,2026-07-24,Customer 3367,Mid-Market,East,Arjun Desai,Bearings & Drives,5,3578.72,8,16462.11,Prepaid,Delivered,19
+MER-100335,2026-07-27,Customer 1890,Mid-Market,East,Anita Rao,Fasteners,2,272.34,5,517.45,Prepaid,Delivered,21
+MER-103191,2026-09-14,Customer 1221,Mid-Market,West,Meera Iyer,Lubricants,5,1573.85,0,7869.25,Net 30,Pending,
+MER-101775,2026-07-17,Customer 2985,SMB,East,Vikram Shah,Lubricants,2,1240.40,0,2480.80,Prepaid,delivered,5
+MER-102738,2026-09-23,Customer 1601,SMB,North,Sneha Kulkarni,Lubricants,1,1363.74,5,1295.55,Net 60,Delivered,9
+MER-102549,2026-08-06,Customer 4701,SMB,West,Rahul Nair,Power Tools,3,7899.29,0,23697.87,Net 60,Cancelled,
+MER-102597,2026-07-14,Customer 2175,Enterprise,South,Arjun Desai,Bearings & Drives,25,3609.52,0,90238.00,Net 60,delivered,2
+MER-103211,2026-07-02,Customer 1700,Enterprise,West,Sneha Kulkarni,Safety Equipment,5,1806.10,0,9030.50,Prepaid,Returned,6
+MER-103975,2026-08-20,Customer 1333,Mid-Market,North,Rahul Nair,Bearings & Drives,10,4276.25,10,38486.25,Net 30,Delivered,19
+MER-100580,2026-07-29,Customer 2349,SMB,West,Anita Rao,Power Tools,2,8632.43,0,17264.86,Prepaid,Cancelled,
+MER-100713,2026-07-08,Customer 4463,Mid-Market,South,Rahul Nair,Power Tools,2,8309.22,0,16618.44,Net 30,delivered,12
+MER-101076,2026-08-01,Customer 2753,Mid-Market,North,Arjun Desai,Fasteners,5,279.71,8,1286.67,Net 30,Delivered,10
+MER-102142,2026-08-24,Customer 4091,Small Business,South,Vikram Shah,Electricals,1,3603.30,0,3603.30,Net 60,pending,
+MER-103435,2026-09-25,Customer 3287,Enterprise,East,Sneha Kulkarni,Bearings & Drives,5,4547.38,12,20008.47,Net 30,delivered,17
+MER-101236,2026-09-11,Customer 3660,Mid-Market,West,Vikram Shah,Fasteners,5,365.04,5,1733.94,Net 30,Delivered,9
+MER-102974,2026-07-19,Customer 1988,Mid-Market,South,Karan Bhatia,Power Tools,5,8335.85,0,41679.25,Prepaid,Delivered,10
+MER-103358,2026-09-29,Customer 4884,Small Business,South,Karan Bhatia,Bearings & Drives,1,4568.41,0,4568.41,Net 60,delivered,8
+MER-103015,2026-08-27,Customer 3943,SMB,West,Rahul Nair,Power Tools,3,8903.55,0,,Net 60,delivered,17
+MER-100056,2026-07-31,Customer 2421,Enterprise,North,Rahul Nair,Safety Equipment,10,1958.13,12,17231.54,Net 30,Delivered,16
+MER-103540,2026-07-30,Customer 1167,Mid-Market,West,Rahul Nair,Fasteners,5,350.42,8,1611.93,Prepaid,Delivered,13
+MER-103113,2026-07-28,Customer 3373,SMB,West,Rahul Nair,Bearings & Drives,3,3713.33,5,10582.99,Prepaid,Pending,
+MER-103819,2026-07-31,Customer 1541,Mid-Market,South,Priya Menon,Electricals,5,3325.65,5,15796.84,Prepaid,Delivered,12
+MER-101336,2026-09-26,Customer 1323,Mid-Market,West,Sneha Kulkarni,Power Tools,10,8382.18,0,83821.80,Net 60,Cancelled,
+MER-102594,2026-07-20,Customer 1307,Mid-Market, South,Vikram Shah,Lubricants,2,1383.25,10,2489.85,Net 60,Delivered,17
+MER-102909,2026-08-16,Customer 3951,Enterprise,North ,Arjun Desai,Fasteners,50,299.48,10,13476.60,Prepaid,Delivered,17
+MER-103742,2026-07-24,Customer 1349,Enterprise,East,Karan Bhatia,Pneumatics,100,5061.27,10,455514.30,Net 30,Pending,
+MER-102802,2026-09-23,Customer 1690,SMB,North,Vikram Shah,Hand Tools,1,911.50,0,911.50,Net 30,Delivered,15
+MER-101039,2026-07-24,Customer 4373,SMB,West,Karan Bhatia,Electricals,1,2785.52,0,2785.52,Net 30,Pending,
+MER-101960,2026-08-18,Customer 4789,SMB,East,Anita Rao,Pneumatics,1,5820.52,5,5529.49,Net 60,Delivered,4
+MER-101925,2026-07-04,Customer 3884,Enterprise,South,Anita Rao,Pneumatics,5,4880.48,15,32352.61,Net 30,DELIVERED,4
+MER-100301,2026-07-09,Customer 3934,Enterprise,South,Karan Bhatia,Electricals,25,3000.74,8,69017.02,Net 30,Delivered,18
+MER-102542,2026-07-01,Customer 2606,Mid-Market,West,Arjun Desai,Electricals,2,3436.34,8,6322.87,Net 60,Delivered,19
+MER-102277,2026-07-24,Customer 4237,SMB,North,Meera Iyer,Pneumatics,1,4682.80,0,4682.80,Net 30,Delivered,12
+MER-101839,2026-08-02,Customer 4721,SMB,West,Karan Bhatia,Lubricants,2,1458.30,0,2916.60,Net 30,delivered,7
+MER-101741,2026-09-29,Customer 2196,SMB,West,Anita Rao,Hand Tools,2,820.84,0,1641.68,Prepaid,Delivered,20
+MER-101228,2026-09-20,Customer 4690,Enterprise,South,Sneha Kulkarni,Hand Tools,10,1035.06,15,8798.01,Net 60,Returned,19
+MER-102581,2026-07-03,Customer 3636,Mid-Market,North,Vikram Shah,Safety Equipment,5,2122.37,8,9762.90,Net 30,Delivered,12
+MER-102928,2026-07-10,Customer 1504,Mid-Market,South,Karan Bhatia,Lubricants,5,1381.14,5,6560.41,Net 30,Delivered,19
+MER-102021,2026-09-24,Customer 3951,SMB,North,Meera Iyer,Pneumatics,5,5229.90,0,26149.50,Net 30,Delivered,12
+MER-100193,2026-09-04,Customer 3955,Mid-Market,South,Priya Menon,Lubricants,2,1682.15,0,3364.30,Net 30,delivered,18
+MER-102675,2026-08-09,Customer 3106,SMB,West,Meera Iyer,Lubricants,3,1325.64,0,3976.92,Net 30,delivered,18
+MER-102595,2026-08-04,Customer 2717,Small Business,South,Anita Rao,Electricals,2,3495.11,0,6990.22,Prepaid,Delivered,9
+MER-102598,2026-09-13,Customer 2095,Mid-Market,South,Sneha Kulkarni,Pneumatics,2,5411.69,8,9957.51,Net 60,Delivered,21
+MER-100415,2026-09-20,Customer 1481,SMB,West,Rahul Nair,Electricals,3,3234.37,0,9703.11,Net 30,Delivered,14
+MER-100227,2026-08-21,Customer 4390,SMB,South,Arjun Desai,Safety Equipment,1,2020.99,0,2020.99,Net 30,Delivered,21
+MER-100496,2026-07-31,Customer 1824,Mid-Market,North,Anita Rao,Electricals,5,3253.99,0,16269.95,Net 30,Delivered,9
+MER-101427,2026-08-21,Customer 1556,SMB,North,Vikram Shah,Bearings & Drives,1,4420.14,0,,Prepaid,Delivered,6
+MER-101171,2026-08-21,Customer 3947,SMB,East,Vikram Shah,Fasteners,3,272.49,5,776.60,Net 30,Delivered,8
+MER-100611,2026-07-13,Customer 2346,Mid-Market,West,Arjun Desai,Hand Tools,2,1080.48,5,2052.91,Net 60,Delivered,15
+MER-101134,2026-09-30,Customer 1286,Small Business,West,Anita Rao,Hand Tools,3,947.45,0,2842.35,Net 30,DELIVERED,14
+MER-103385,2026-07-07,Customer 1691,Mid-Market,North,Sneha Kulkarni,Bearings & Drives,5,4525.93,0,22629.65,Net 30,Delivered,8
+MER-101107,2026-07-24,Customer 3124,SMB,West,Priya Menon,Bearings & Drives,5,4124.66,0,20623.30,Prepaid,Delivered,21
+MER-103637,2026-07-23,Customer 1993,Mid-Market,South,Karan Bhatia,Hand Tools,25,1021.61,0,25540.25,Prepaid,Delivered,14
+MER-102987,2026-09-30,Customer 3086,SMB,West,Meera Iyer,Power Tools,5,6796.68,0,33983.40,Net 30,Delivered,14
+MER-100527,2026-09-12,Customer 3896,Enterprise,North,Priya Menon,Pneumatics,50,5852.04,8,269193.84,Net 30,Delivered,17
+MER-100472,2026-07-31,Customer 1265,Enterprise,West,Sneha Kulkarni,Safety Equipment,25,1639.52,12,36069.44,Net 60,delivered,16
+MER-103091,2026-07-15,Customer 1327,SMB,West,Arjun Desai,Safety Equipment,2,1800.59,0,3601.18,Prepaid,Delivered,12
+MER-103095,2026-08-05,Customer 2594,Small Business,West,Rahul Nair,Hand Tools,2,1087.03,0,2174.06,Net 30,Pending,
+MER-101583,2026-07-16,Customer 1545,SMB,West,Vikram Shah,Safety Equipment,3,2046.21,5,5831.70,Net 30,Cancelled,
+MER-101070,2026-08-14,Customer 1996,Enterprise,North,Meera Iyer,Power Tools,100,8933.43,10,804008.70,Net 60,Cancelled,
+MER-100673,2026-09-15,Customer 2362,SMB,West,Rahul Nair,Power Tools,5,7326.52,5,34800.97,Net 30,Delivered,16
+MER-102303,2026-09-21,Customer 1152,SMB,South,Arjun Desai,Lubricants,3,1241.64,0,3724.92,Prepaid,Delivered,20
+MER-103174,2026-09-06,Customer 2236,Small Business,North,Arjun Desai,Bearings & Drives,1,3648.12,5,3465.71,Net 30,Delivered,5
+MER-102691,2026-08-24,Customer 3280,SMB,East,Arjun Desai,Electricals,1,2668.48,0,2668.48,Prepaid,DELIVERED,8
+MER-101318,2026-09-23,Customer 2483,SMB,South,Rahul Nair,Power Tools,2,8119.49,0,16238.98,Prepaid,Returned,6
+MER-103711,2026-08-08,Customer 1724,Enterprise,West,Sneha Kulkarni,Pneumatics,25,5314.02,10,119565.45,Net 30,delivered,16
+MER-101131,2026-08-21,Customer 2799,Mid-Market,North,Anita Rao,Power Tools,10,7174.18,8,102542.82,Prepaid,Delivered,7
+MER-100938,2026-09-09,Customer 1505,SMB, East,Meera Iyer,Hand Tools,1,1110.81,0,1110.81,Prepaid,Delivered,6
+MER-103925,2026-08-03,Customer 1930,SMB,North,Karan Bhatia,Fasteners,1,290.38,0,290.38,Prepaid,Cancelled,
+MER-103311,2026-09-10,Customer 2666,Mid-Market,South,Anita Rao,Lubricants,25,1476.43,0,69955.82,Net 30,Delivered,3
+MER-103249,2026-07-17,Customer 3143,Enterprise,South,Rahul Nair,Power Tools,5,7016.96,0,35084.80,Net 60,Delivered,2
+MER-100098,2026-07-11,Customer 1200,Mid-Market,West,Anita Rao,Lubricants,10,1307.84,5,12424.48,Net 30,Delivered,13
+MER-102241,2026-09-16,Customer 4659,SMB,North,Vikram Shah,Power Tools,2,7342.47,0,14684.94,Net 30,DELIVERED,18
+MER-103232,2026-09-06,Customer 3093,Mid-Market,North,Anita Rao,Electricals,10,2731.41,0,27314.10,Net 60,Delivered,15
+MER-100299,2026-08-09,Customer 4940,Small Business,West,Vikram Shah,Lubricants,1,1284.61,0,1284.61,Net 30,Delivered,7
+MER-100982,2026-07-16,Customer 1604,SMB,South,Vikram Shah,Lubricants,2,1401.95,0,2803.90,Prepaid,delivered,6
+MER-103920,2026-09-11,Customer 2835,Mid-Market,East,Meera Iyer,Hand Tools,5,1113.17,8,5120.58,Net 60,cancelled,
+MER-103936,2026-09-22,Customer 4084,Enterprise,West,Karan Bhatia,Bearings & Drives,100,4767.82,12,419568.16,Net 30,Delivered,11
+MER-100965,2026-07-31,Customer 3402,SMB,South,Meera Iyer,Bearings & Drives,5,4828.86,0,24144.30,Prepaid,Pending,
+MER-103131,2026-08-24,Customer 2707,Mid-Market,West,Vikram Shah,Fasteners,5,334.52,0,1672.60,Net 60,Pending,
+MER-100047,2026-07-15,Customer 2187,SMB,South,Rahul Nair,Safety Equipment,3,1809.72,5,5157.70,Net 30,Delivered,12
+MER-103505,2026-08-03,Customer 3733,Mid-Market,North,Anita Rao,Power Tools,10,7780.27,5,103003.80,Net 30,returned,3
+MER-102169,2026-07-18,Customer 1092,SMB,East,Priya Menon,Bearings & Drives,2,3995.47,0,7990.94,Net 60,Delivered,9
+MER-100532,2026-07-24,Customer 3122,SMB, West,Rahul Nair,Electricals,1,3000.14,5,2850.13,Net 30,pending,
+MER-102324,2026-07-22,Customer 4984,Mid-Market,North,Priya Menon,Power Tools,2,8254.82,0,16509.64,Net 60,Cancelled,
+MER-102367,2026-08-07,Customer 1316,Mid-Market,West,Anita Rao,Hand Tools,2,1035.35,8,1905.04,Net 30,delivered,17
+MER-103004,2026-08-08,Customer 3595,SMB,West,Priya Menon,Electricals,1,3317.62,5,3151.74,Prepaid,Delivered,17
+MER-103243,2026-08-18,Customer 4306,SMB,West,Karan Bhatia,Fasteners,3,329.01,0,987.03,Net 30,DELIVERED,15
+MER-100579,2026-09-13,Customer 1650,SMB,North,Priya Menon,Safety Equipment,1,1979.54,0,1979.54,Net 30,Delivered,21
+MER-102158,2026-09-23,Customer 3733,Mid-Market,West,Karan Bhatia,Safety Equipment,2,1873.91,5,3560.43,Net 30,Delivered,10
+MER-103829,2026-09-24,Customer 3252,SMB,South,Vikram Shah,Power Tools,2,7241.74,0,14483.48,Net 30,Delivered,7
+MER-102577,2026-09-10,Customer 3753,Small Business,West,Meera Iyer,Fasteners,2,375.73,5,713.89,Net 30,Delivered,9
+MER-100157,2026-09-04,Customer 1574,SMB,East,Rahul Nair,Safety Equipment,2,1951.94,0,3903.88,Net 60,CANCELLED,
+MER-103838,2026-08-02,Customer 3728,SMB,South,Anita Rao,Safety Equipment,1,1709.64,0,1709.64,Net 60,returned,3
+MER-103744,2026-08-08,Customer 2155,SMB,West,Anita Rao,Hand Tools,1,1041.95,0,1041.95,Net 30,Delivered,11
+MER-100610,2026-07-13,Customer 3821,SMB,North,Meera Iyer,Safety Equipment,1,1638.66,5,1556.73,Net 60,Returned,4
+MER-103904,2026-08-11,Customer 1468,SMB,North,Anita Rao,Hand Tools,3,889.54,0,4619.98,Net 30,Delivered,20
+MER-100745,2026-09-29,Customer 2663,SMB,West,Karan Bhatia,Safety Equipment,2,1649.63,0,3299.26,Net 60,Delivered,9
+MER-101300,2026-08-25,Customer 3270,Mid-Market,South,Karan Bhatia,Bearings & Drives,2,3749.44,0,7498.88,Net 30,delivered,10
+MER-103676,2026-08-25,Customer 3962,Small Business,West,Anita Rao,Bearings & Drives,3,3803.39,0,11410.17,Prepaid,Delivered,6
+MER-101322,2026-08-30,Customer 1654,SMB,West,Anita Rao,Safety Equipment,1,1942.20,0,2572.57,Prepaid,Cancelled,
+MER-101275,2026-09-06,Customer 4838,Mid-Market,South,Sneha Kulkarni,Power Tools,10,6730.62,8,61921.70,Prepaid,delivered,16
+MER-100020,2026-09-06,Customer 1500,Enterprise,North,Anita Rao,Hand Tools,10,981.47,12,8636.94,Net 30,Delivered,5
+MER-100714,2026-07-01,Customer 4797,Mid-Market,West,Meera Iyer,Bearings & Drives,10,4128.67,10,37158.03,Net 30,DELIVERED,16
+MER-102778,2026-08-21,Customer 4994,SMB,West,Vikram Shah,Bearings & Drives,2,4931.51,0,9863.02,Net 30,delivered,11
+MER-101799,2026-07-31,Customer 4160,Mid-Market,West,Meera Iyer,Bearings & Drives,25,4881.26,0,122031.50,Prepaid,Pending,
+MER-102248,2026-07-24,Customer 2653,SMB,North,Arjun Desai,Hand Tools,2,934.96,0,1869.92,Net 60,Delivered,4
+MER-101269,2026-07-01,Customer 2277,Mid-Market,West,Meera Iyer,Electricals,5,3193.54,8,14690.28,Net 30,Delivered,6
+MER-100453,2026-09-27,Customer 1554,Small Business,North,Sneha Kulkarni,Pneumatics,3,4917.92,0,14753.76,Net 30,pending,
+MER-103129,2026-07-01,Customer 3570,Small Business,South,Sneha Kulkarni,Safety Equipment,1,1634.34,0,1634.34,Prepaid,Delivered,10
+MER-103281,2026-07-30,Customer 1317,SMB,West,Arjun Desai,Safety Equipment,2,1810.68,0,3621.36,Net 30,pending,
+MER-100271,2026-09-11,Customer 1025,Mid-Market,East ,Arjun Desai,Power Tools,10,7297.17,8,67133.96,Net 30,Delivered,2
+MER-100587,2026-07-24,Customer 3093,Mid-Market,North,Sneha Kulkarni,Pneumatics,5,4596.33,0,22981.65,Net 30,Delivered,8
+MER-100122,2026-07-21,Customer 1436,Mid-Market,West,Rahul Nair,Pneumatics,2,4921.51,0,9843.02,Prepaid,PENDING,
+MER-102419,2026-09-28,Customer 4643,SMB,North,Karan Bhatia,Power Tools,2,7120.69,0,14241.38,Net 30,Delivered,20
+MER-103750,2026-07-25,Customer 4385,SMB,West,Priya Menon,Lubricants,3,1637.86,0,4913.58,Net 60,Delivered,20
+MER-102347,2026-07-30,Customer 2821,Small Business,West,Priya Menon,Fasteners,1,339.21,0,339.21,Prepaid,delivered,18
+MER-102096,2026-07-11,Customer 4619,SMB,South,Anita Rao,Pneumatics,1,5098.46,5,4843.54,Net 30,delivered,14
+MER-100658,2026-09-17,Customer 4302,SMB,South,Priya Menon,Hand Tools,1,1086.60,5,1032.27,Net 30,Delivered,7
+MER-100647,2026-08-25,Customer 3132,SMB,South,Vikram Shah,Safety Equipment,3,1829.55,5,5214.22,Net 60,Delivered,14
+MER-100302,2026-09-06,Customer 2856,SMB,North,Arjun Desai,Bearings & Drives,2,4022.59,5,7642.92,Net 30,pending,
+MER-100197,2026-09-08,Customer 4592,Mid-Market,West,Priya Menon,Electricals,25,3586.62,10,80698.95,Net 60,Delivered,11
+MER-101004,2026-08-20,Customer 3366,Mid-Market,South,Sneha Kulkarni,Electricals,25,3062.13,5,72725.59,Prepaid,delivered,20
+MER-103246,2026-08-21,Customer 3895,Mid-Market,West,Karan Bhatia,Bearings & Drives,5,4659.79,0,23298.95,Net 60,delivered,20
+MER-103498,2026-07-24,Customer 3063,Enterprise,North,Karan Bhatia,Electricals,10,3257.31,10,29315.79,Net 30,delivered,18
+MER-100192,2026-07-11,Customer 1324,Small Business,North,Anita Rao,Hand Tools,5,942.22,0,7796.52,Net 60,Delivered,11
+MER-100826,2026-08-30,Customer 3518,Mid-Market,East,Vikram Shah,Safety Equipment,5,1603.91,10,7217.60,Net 30,Delivered,3
+MER-102517,2026-09-16,Customer 3964,Enterprise,North,Anita Rao,Electricals,10,3091.86,15,,Net 30,Cancelled,
+MER-100479,2026-09-21,Customer 4570,Mid-Market,North,Sneha Kulkarni,Safety Equipment,10,1636.94,0,16369.40,Net 60,Delivered,18
+MER-103397,2026-07-29,Customer 2195,Mid-Market, North,Anita Rao,Electricals,2,3282.03,10,5907.65,Prepaid,Delivered,4
+MER-100653,2026-07-26,Customer 2625,Enterprise,South,Arjun Desai,Safety Equipment,50,1827.77,15,77680.22,Net 30,Delivered,18
+MER-103616,2026-08-26,Customer 3318,Mid-Market,East,Priya Menon,Pneumatics,10,5885.26,8,54144.39,Prepaid,Delivered,15
+MER-103606,2026-08-06,Customer 2275,Small Business,North,Arjun Desai,Electricals,2,3032.08,0,6064.16,Prepaid,Returned,15
+MER-103006,2026-08-21,Customer 3800,SMB,North,Anita Rao,Lubricants,1,1516.77,0,1516.77,Net 30,cancelled,
+MER-102670,2026-08-01,Customer 3341,Enterprise,East,Meera Iyer,Bearings & Drives,50,3793.26,8,174489.96,Net 30,Pending,
+MER-101022,2026-08-03,Customer 4728,Mid-Market, North,Priya Menon,Pneumatics,10,5401.12,10,48610.08,Prepaid,Delivered,2
+MER-101854,2026-09-20,Customer 3516,Mid-Market,North,Vikram Shah,Electricals,5,2917.30,0,14586.50,Net 30,returned,17
+MER-103603,2026-08-20,Customer 2555,Mid-Market,South,Arjun Desai,Power Tools,2,7595.21,0,15190.42,Prepaid,Delivered,5
+MER-103443,2026-08-03,Customer 2780,Mid-Market,South,Priya Menon,Hand Tools,10,867.82,5,8244.29,Net 30,Delivered,7
+MER-100298,2026-08-25,Customer 1153,SMB,West,Karan Bhatia,Power Tools,1,7251.62,0,7251.62,Net 60,delivered,2
+MER-100525,2026-09-30,Customer 4810,Enterprise,East,Vikram Shah,Bearings & Drives,10,4693.91,8,43183.97,Net 30,Delivered,14
+MER-103753,2026-09-11,Customer 2395,Mid-Market,East,Karan Bhatia,Bearings & Drives,5,4000.70,0,20003.50,Net 30,Delivered,2
+MER-102460,2026-07-03,Customer 3287,SMB,South,Meera Iyer,Power Tools,2,7211.34,0,14422.68,Net 30,Delivered,9
+MER-102046,2026-07-02,Customer 3418,SMB,West,Sneha Kulkarni,Bearings & Drives,2,4807.08,0,9614.16,Net 30,Delivered,17
+MER-100256,2026-09-14,Customer 4925,Enterprise,South,Karan Bhatia,Fasteners,10,293.21,10,2638.89,Prepaid,Delivered,2
+MER-101186,2026-08-26,Customer 4206,SMB,North,Arjun Desai,Bearings & Drives,1,4169.89,0,4169.89,Net 60,Delivered,12
+MER-103462,2026-08-23,Customer 1316,SMB,North,Meera Iyer,Lubricants,2,1618.35,0,3236.70,Net 30,Pending,
+MER-103743,2026-07-09,Customer 2508,SMB,South,Rahul Nair,Electricals,2,2888.39,0,5776.78,Prepaid,Pending,
+MER-101203,2026-09-21,Customer 3668,SMB,West,Meera Iyer,Pneumatics,1,6253.23,0,6253.23,Prepaid,Delivered,7
+MER-101645,2026-09-21,Customer 2203,Mid-Market,North,Sneha Kulkarni,Pneumatics,5,4603.89,0,23019.45,Net 30,Delivered,4
+MER-100251,2026-09-18,Customer 3301,Mid-Market,North,Meera Iyer,Fasteners,5,331.78,0,1658.90,Prepaid,Delivered,16
+MER-102815,2026-09-04,Customer 2504,SMB,East,Sneha Kulkarni,Power Tools,1,8114.25,0,8114.25,Net 30,Pending,
+MER-100604,2026-07-29,Customer 3103,Mid-Market, North,Anita Rao,Bearings & Drives,10,4576.53,0,83500.51,Prepaid,Delivered,7
+MER-100383,2026-07-11,Customer 2962,Small Business,West,Priya Menon,Pneumatics,1,5158.03,0,5158.03,Prepaid,Pending,
+MER-101744,2026-07-18,Customer 1178,Mid-Market,South,Karan Bhatia,Bearings & Drives,2,4523.24,8,8322.76,Prepaid,Delivered,8
+MER-103276,2026-07-05,Customer 4032,SMB,West,Vikram Shah,Bearings & Drives,1,3792.30,0,3792.30,Net 30,Delivered,10
+MER-103159,2026-09-29,Customer 3504,Mid-Market,West,Sneha Kulkarni,Electricals,5,3547.17,10,15962.26,Net 30,Delivered,3
+MER-101492,2026-09-23,Customer 1164,SMB,West,Priya Menon,Hand Tools,1,938.79,0,938.79,Prepaid,Delivered,9
+MER-102871,2026-08-20,Customer 3416,SMB,North,Anita Rao,Power Tools,1,7041.31,5,6689.24,Net 30,Delivered,12
+MER-100616,2026-08-13,Customer 1805,Mid-Market,West,Meera Iyer,Hand Tools,2,1065.26,8,1960.08,Net 60,delivered,12
+MER-101750,2026-08-31,Customer 3895,SMB,West,Vikram Shah,Electricals,2,3333.96,0,6667.92,Prepaid,Delivered,3
+MER-100268,2026-08-31,Customer 3937,Mid-Market,South,Meera Iyer,Lubricants,10,1586.85,0,15868.50,Prepaid,Delivered,20
+MER-103512,2026-07-06,Customer 3638,Mid-Market,East,Karan Bhatia,Lubricants,10,1640.72,8,15094.62,Net 30,Cancelled,
+MER-103466,2026-08-23,Customer 3998,Mid-Market,East,Sneha Kulkarni,Safety Equipment,10,2074.67,8,19086.96,Net 60,Delivered,3
+MER-103197,2026-07-02,Customer 1026,Enterprise,North,Arjun Desai,Bearings & Drives,50,4498.80,10,202446.00,Net 30,DELIVERED,13
+MER-103501,2026-07-21,Customer 2295,SMB,North,Anita Rao,Lubricants,1,1546.21,0,1546.21,Net 30,Delivered,2
+MER-101662,2026-09-20,Customer 1567,Mid-Market,West,Meera Iyer,Fasteners,25,316.74,5,7522.57,Net 30,Delivered,9
+MER-101187,2026-07-18,Customer 1939,Enterprise,North,Karan Bhatia,Bearings & Drives,5,4349.06,10,19570.77,Net 30,Delivered,19
+MER-100927,2026-09-02,Customer 1744,Enterprise,North,Meera Iyer,Safety Equipment,100,1751.45,12,154127.60,Prepaid,Cancelled,
+MER-100671,2026-07-09,Customer 3989,Mid-Market,West,Anita Rao,Electricals,5,3061.31,5,25575.76,Net 60,Returned,5
+MER-101256,2026-08-05,Customer 3024,SMB,West,Anita Rao,Fasteners,2,340.35,0,680.70,Net 30,Delivered,8
+MER-102327,2026-09-18,Customer 2501,SMB, South,Arjun Desai,Fasteners,1,345.44,0,345.44,Net 30,delivered,16
+MER-103805,2026-07-05,Customer 2162,SMB,West,Rahul Nair,Hand Tools,1,899.32,0,899.32,Net 60,Delivered,5
+MER-100316,2026-07-26,Customer 2266,Mid-Market,North,Vikram Shah,Safety Equipment,2,2033.52,8,3741.68,Net 30,Delivered,5
+MER-100159,2026-07-15,Customer 3930,Mid-Market,West,Meera Iyer,Hand Tools,2,1095.22,0,2190.44,Net 30,Delivered,13
+MER-100748,2026-09-17,Customer 4895,Enterprise,West,Sneha Kulkarni,Lubricants,10,1302.66,5,20036.68,Net 60,Returned,9
+MER-101622,2026-08-27,Customer 2970,Mid-Market,East,Anita Rao,Fasteners,2,289.53,5,550.11,Net 30,Cancelled,
+MER-100925,2026-07-28,Customer 4160,SMB,East,Meera Iyer,Safety Equipment,1,1547.13,0,1547.13,Net 30,Delivered,10
+MER-103911,2026-07-01,Customer 4684,SMB,North,Meera Iyer,Pneumatics,1,5347.16,5,5079.80,Net 30,Delivered,17
+MER-103312,2026-08-06,Customer 2541,Mid-Market,West,Rahul Nair,Lubricants,2,1446.72,0,2893.44,Prepaid,Delivered,21
+MER-101428,2026-07-12,Customer 2437,SMB,North,Vikram Shah,Hand Tools,1,1102.07,5,1046.97,Net 30,Pending,
+MER-102803,2026-07-04,Customer 4731,SMB,West,Sneha Kulkarni,Fasteners,2,334.27,5,635.11,Net 30,Delivered,19
+MER-102001,2026-08-10,Customer 2653,SMB,South,Anita Rao,Hand Tools,1,962.49,0,962.49,Net 60,returned,18
+MER-102573,2026-08-22,Customer 3282,Mid-Market,North,Karan Bhatia,Bearings & Drives,10,4466.87,10,40201.83,Net 30,Delivered,6
+MER-100584,2026-07-30,Customer 3290,SMB,East,Meera Iyer,Bearings & Drives,2,4091.35,0,8182.70,Net 30,Delivered,10
+MER-102983,2026-08-05,Customer 1059,SMB,South,Karan Bhatia,Bearings & Drives,2,4199.48,0,8398.96,Prepaid,Delivered,18
+MER-103611,2026-07-22,Customer 4302,SMB,North,Rahul Nair,Safety Equipment,3,1827.04,0,5481.12,Prepaid,Delivered,13
+MER-103888,2026-07-08,Customer 2387,SMB,North,Sneha Kulkarni,Fasteners,2,375.93,0,751.86,Prepaid,Returned,11
+MER-100204,2026-09-04,Customer 1172,Enterprise,West ,Vikram Shah,Fasteners,25,307.08,8,15780.26,Net 30,DELIVERED,3
+MER-101329,2026-07-06,Customer 2596,Mid-Market,South,Priya Menon,Safety Equipment,2,1612.73,0,3225.46,Net 30,Delivered,12
+MER-103926,2026-08-18,Customer 1484,Mid-Market,South,Karan Bhatia,Safety Equipment,2,1902.76,8,3501.08,Prepaid,delivered,7
+MER-100594,2026-09-09,Customer 2324,Enterprise,North,Rahul Nair,Hand Tools,50,1072.00,8,49312.00,Net 30,Cancelled,
+MER-102496,2026-09-22,Customer 4302,Enterprise,North,Sneha Kulkarni,Electricals,5,2823.59,10,12706.16,Net 30,delivered,12
+MER-103043,2026-09-06,Customer 3143,Small Business,East,Sneha Kulkarni,Lubricants,2,1232.61,0,2465.22,Net 60,Pending,
+MER-103437,2026-08-08,Customer 1101,Mid-Market,East,Priya Menon,Power Tools,2,7198.62,10,12957.52,Net 30,delivered,10
+MER-101505,2026-07-29,Customer 1558,SMB,North,Anita Rao,Fasteners,3,369.67,0,1678.60,Net 30,delivered,10
+MER-102123,2026-07-26,Customer 1298,SMB,North,Vikram Shah,Pneumatics,1,6110.21,0,6110.21,Net 30,DELIVERED,8
+MER-101384,2026-08-19,Customer 4925,SMB,East ,Rahul Nair,Hand Tools,1,1050.47,5,997.95,Prepaid,Delivered,11
+MER-103147,2026-09-24,Customer 4981,Mid-Market,South,Rahul Nair,Bearings & Drives,25,4097.13,8,94233.99,Net 30,Returned,16
+MER-100308,2026-08-13,Customer 2083,Enterprise,North,Meera Iyer,Hand Tools,25,994.98,8,22884.54,Prepaid,Delivered,14
+MER-102852,2026-07-13,Customer 4964,SMB,West,Anita Rao,Pneumatics,2,6202.25,0,20110.85,Net 60,Delivered,16
+MER-100055,2026-09-27,Customer 2343,SMB,West,Anita Rao,Lubricants,1,1394.45,5,1803.30,Net 30,DELIVERED,4
+MER-102503,2026-08-19,Customer 1780,Mid-Market,South,Anita Rao,Power Tools,5,6773.65,8,45326.72,Net 60,Delivered,4
+MER-102640,2026-09-26,Customer 4149,Enterprise,North,Rahul Nair,Safety Equipment,25,1569.19,8,36091.37,Prepaid,Delivered,2
+MER-100646,2026-09-10,Customer 3269,SMB,North,Rahul Nair,Pneumatics,3,5771.99,0,17315.97,Net 30,Delivered,8
+MER-100758,2026-07-11,Customer 1301,SMB,South,Rahul Nair,Lubricants,1,1274.60,0,,Net 60,Delivered,20
+MER-102372,2026-09-13,Customer 1762,SMB,North,Karan Bhatia,Lubricants,1,1507.09,0,1507.09,Net 30,Delivered,10
+MER-102863,2026-08-22,Customer 2822,Mid-Market,West,Rahul Nair,Electricals,5,3136.81,0,15684.05,Net 30,Delivered,17
+MER-103583,2026-07-21,Customer 2715,Small Business,South,Vikram Shah,Lubricants,1,1513.25,0,1513.25,Prepaid,DELIVERED,17
+MER-102100,2026-07-13,Customer 4560,Mid-Market,North,Sneha Kulkarni,Power Tools,2,7662.76,8,14099.48,Net 60,delivered,13
+MER-101444,2026-08-27,Customer 4920,Enterprise,North ,Rahul Nair,Lubricants,5,1285.14,8,5911.64,Net 30,CANCELLED,
+MER-103034,2026-09-17,Customer 4173,SMB, North,Karan Bhatia,Power Tools,1,7337.20,0,7337.20,Net 30,Pending,
+MER-103912,2026-09-28,Customer 3939,Mid-Market,West,Arjun Desai,Pneumatics,5,5308.88,10,23889.96,Prepaid,Delivered,19
+MER-100924,2026-08-17,Customer 1279,Enterprise,East,Rahul Nair,Fasteners,10,304.05,15,2584.42,Net 30,Delivered,5
+MER-102653,2026-07-10,Customer 2255,Mid-Market,South ,Rahul Nair,Power Tools,10,7605.27,8,69968.48,Net 30,Delivered,8
+MER-103661,2026-07-13,Customer 4969,Mid-Market,West,Vikram Shah,Fasteners,2,283.97,5,539.54,Net 30,Delivered,11
+MER-103183,2026-07-22,Customer 2907,Mid-Market,South,Meera Iyer,Lubricants,25,1597.76,0,39944.00,Prepaid,Pending,
+MER-100971,2026-07-12,Customer 4618,SMB,North,Sneha Kulkarni,Hand Tools,1,983.53,0,983.53,Net 30,delivered,9
+MER-100570,2026-09-23,Customer 3803,SMB,South,Vikram Shah,Fasteners,1,375.04,0,375.04,Prepaid,Delivered,18
+MER-102041,2026-07-26,Customer 2986,SMB,East,Rahul Nair,Safety Equipment,2,2009.59,0,4019.18,Prepaid,delivered,20
+MER-101017,2026-08-09,Customer 3248,Mid-Market,North,Anita Rao,Bearings & Drives,5,4955.09,0,24775.45,Net 60,delivered,20
+MER-101653,2026-09-13,Customer 1619,SMB,South,Arjun Desai,Safety Equipment,3,2034.31,5,5797.78,Net 30,Delivered,4
+MER-101649,2026-09-17,Customer 2965,Mid-Market,East,Arjun Desai,Lubricants,2,1438.31,0,2876.62,Net 60,Pending,
+MER-101102,2026-09-08,Customer 3989,SMB,South,Rahul Nair,Lubricants,1,1264.98,0,1264.98,Net 60,delivered,3
+MER-101753,2026-07-28,Customer 3837,Enterprise,East,Meera Iyer,Pneumatics,10,5663.30,10,50969.70,Net 60,Delivered,19
+MER-101398,2026-08-08,Customer 2855,Mid-Market,South,Anita Rao,Hand Tools,5,896.10,8,5803.97,Prepaid,Pending,
+MER-103003,2026-07-04,Customer 2867,Mid-Market,North,Arjun Desai,Fasteners,5,295.79,0,1478.95,Prepaid,Cancelled,
+MER-102701,2026-09-17,Customer 3507,SMB,South,Karan Bhatia,Hand Tools,1,848.79,0,848.79,Prepaid,Pending,
+MER-102131,2026-08-10,Customer 2221,Mid-Market,South,Karan Bhatia,Safety Equipment,2,2059.08,5,3912.25,Net 60,Returned,21
+MER-100689,2026-08-15,Customer 4747,Mid-Market,North,Arjun Desai,Safety Equipment,10,2016.15,0,20161.50,Prepaid,Delivered,5
+MER-103107,2026-08-31,Customer 1927,SMB,South,Rahul Nair,Power Tools,2,8771.23,0,,Prepaid,delivered,5
+MER-103906,2026-09-27,Customer 4523,SMB, South,Rahul Nair,Electricals,1,3441.61,0,3441.61,Prepaid,Pending,
+MER-102249,2026-08-10,Customer 1828,SMB,North,Priya Menon,Fasteners,2,345.25,5,655.98,Net 30,Returned,14
+MER-103323,2026-08-09,Customer 4241,Mid-Market,North,Rahul Nair,Safety Equipment,5,1784.10,0,8920.50,Prepaid,pending,
+MER-100514,2026-07-26,Customer 1893,Mid-Market,South,Karan Bhatia,Power Tools,5,7790.32,0,38951.60,Net 30,Delivered,5
+MER-103999,2026-07-29,Customer 1127,SMB,West,Arjun Desai,Fasteners,2,354.23,0,708.46,Net 30,Delivered,2
+MER-102534,2026-08-12,Customer 4602,SMB,East,Priya Menon,Hand Tools,1,1084.40,0,1084.40,Net 60,delivered,6
+MER-102441,2026-07-28,Customer 2699,SMB,North,Meera Iyer,Fasteners,2,280.74,0,561.48,Net 60,Delivered,9
+MER-102886,2026-07-11,Customer 1705,Mid-Market, West,Karan Bhatia,Bearings & Drives,5,4226.16,0,21130.80,Net 30,delivered,16
+MER-100091,2026-09-17,Customer 4461,SMB,West,Karan Bhatia,Electricals,2,2796.23,0,5592.46,Net 30,Delivered,13
+MER-103269,2026-09-28,Customer 1995,Enterprise,West,Karan Bhatia,Power Tools,5,7743.63,5,36782.24,Net 30,Delivered,3
+MER-100423,2026-09-27,Customer 4603,Enterprise,West,Vikram Shah,Pneumatics,10,4656.58,5,89665.68,Net 30,Delivered,13
+MER-100667,2026-08-09,Customer 1786,Mid-Market,West,Rahul Nair,Hand Tools,5,846.22,0,4231.10,Net 30,Delivered,20
+MER-102680,2026-08-21,Customer 3830,Mid-Market,North,Priya Menon,Fasteners,5,300.50,8,1382.30,Net 60,delivered,9
+MER-103180,2026-08-13,Customer 2990,Enterprise,South,Sneha Kulkarni,Fasteners,10,341.53,0,3415.30,Prepaid,delivered,10
+MER-102866,2026-08-15,Customer 1761,Mid-Market,South,Karan Bhatia,Electricals,10,3315.38,5,31496.11,Net 60,delivered,20
+MER-103417,2026-09-11,Customer 1020,SMB, North,Meera Iyer,Safety Equipment,1,2053.07,0,2053.07,Net 30,Delivered,17
+MER-101590,2026-09-27,Customer 3194,Mid-Market,East,Karan Bhatia,Lubricants,2,1527.96,0,3055.92,Net 30,Pending,
+MER-103304,2026-09-08,Customer 3819,Mid-Market,North,Arjun Desai,Lubricants,2,1512.03,10,2721.65,Prepaid,Delivered,7
+MER-101044,2026-09-09,Customer 4214,SMB, West,Arjun Desai,Fasteners,3,273.51,0,820.53,Net 30,Delivered,8
+MER-101441,2026-07-25,Customer 3756,SMB,South,Vikram Shah,Power Tools,2,7129.67,5,13546.37,Net 60,Delivered,18
+MER-102862,2026-07-30,Customer 4578,SMB,South,Priya Menon,Power Tools,1,8713.65,0,8713.65,Prepaid,Delivered,10
+MER-102602,2026-07-28,Customer 2771,Enterprise,West,Meera Iyer,Pneumatics,25,5441.02,15,115621.68,Prepaid,DELIVERED,21
+MER-103584,2026-08-23,Customer 2169,Enterprise,West,Anita Rao,Hand Tools,5,896.32,10,13486.55,Net 60,delivered,7
+MER-103636,2026-09-30,Customer 2526,Mid-Market,North ,Sneha Kulkarni,Hand Tools,2,1101.69,8,2027.11,Net 30,Delivered,18
+MER-102796,2026-07-29,Customer 2761,Enterprise,North,Arjun Desai,Fasteners,50,355.92,15,15126.60,Net 60,Delivered,19
+MER-102075,2026-07-29,Customer 4877,Enterprise,West,Priya Menon,Pneumatics,50,5383.12,5,255698.20,Net 60,Delivered,16
+MER-100146,2026-09-19,Customer 3348,Enterprise,West,Karan Bhatia,Hand Tools,10,1002.11,12,15399.20,Prepaid,delivered,6
+MER-100864,2026-09-09,Customer 2532,Mid-Market,South,Arjun Desai,Electricals,5,3342.33,8,15374.72,Net 60,Cancelled,
+MER-103144,2026-09-07,Customer 1281,Enterprise,North,Rahul Nair,Hand Tools,100,1052.99,8,96875.08,Net 30,cancelled,
+MER-103614,2026-09-18,Customer 1455,SMB,North,Anita Rao,Electricals,3,3232.29,5,9212.03,Prepaid,Delivered,5
+MER-100004,2026-08-26,Customer 4832,Mid-Market,North,Rahul Nair,Lubricants,2,1371.63,8,2523.80,Net 30,delivered,8
+MER-100663,2026-07-18,Customer 2085,Enterprise,South,Arjun Desai,Safety Equipment,5,1969.15,5,9353.46,Net 60,Delivered,5
+MER-103327,2026-08-17,Customer 3916,SMB,West,Meera Iyer,Fasteners,3,352.36,5,1004.23,Net 30,Delivered,3
+MER-101182,2026-07-01,Customer 1824,Small Business,East,Rahul Nair,Pneumatics,1,6205.49,0,6205.49,Prepaid,Delivered,10
+MER-102979,2026-07-31,Customer 3329,SMB,East,Karan Bhatia,Electricals,1,3367.18,5,3198.82,Prepaid,Delivered,19
+MER-103084,2026-09-21,Customer 4950,SMB,West,Rahul Nair,Fasteners,1,299.74,0,299.74,Net 30,Delivered,2
+MER-101679,2026-07-03,Customer 3322,SMB,East,Sneha Kulkarni,Hand Tools,1,917.55,0,917.55,Net 30,Delivered,11
+MER-101392,2026-09-05,Customer 1446,SMB,North,Meera Iyer,Safety Equipment,3,1542.34,0,4627.02,Net 30,Delivered,7
+MER-103250,2026-07-11,Customer 3452,SMB,South,Sneha Kulkarni,Lubricants,1,1480.01,0,1480.01,Net 30,Delivered,3
+MER-100292,2026-09-23,Customer 4319,SMB,West,Vikram Shah,Hand Tools,3,1090.15,0,3270.45,Net 60,Delivered,14
+MER-102825,2026-08-07,Customer 3575,SMB,West,Arjun Desai,Bearings & Drives,1,3710.22,0,3710.22,Net 30,Delivered,19
+MER-101965,2026-07-21,Customer 2429,Small Business,West,Arjun Desai,Fasteners,1,295.90,0,295.90,Net 60,Delivered,16
+MER-100025,2026-09-24,Customer 1110,SMB,South,Rahul Nair,Electricals,1,3628.85,0,3628.85,Net 60,Delivered,2
+MER-101178,2026-08-02,Customer 2311,Enterprise,North,Vikram Shah,Lubricants,5,1357.43,0,6787.15,Prepaid,DELIVERED,15
+MER-101313,2026-08-27,Customer 1923,SMB,West,Arjun Desai,Electricals,2,3453.60,0,6907.20,Net 60,Delivered,5
+MER-103021,2026-09-06,Customer 2103,Enterprise,East,Sneha Kulkarni,Hand Tools,10,939.17,12,8264.70,Net 30,Delivered,2
+MER-102310,2026-09-25,Customer 2558,SMB,South,Meera Iyer,Hand Tools,3,945.76,0,2837.28,Net 60,Delivered,3
+MER-101263,2026-09-01,Customer 3590,Enterprise,West,Arjun Desai,Power Tools,100,6895.64,15,586129.40,Net 60,Delivered,12
+MER-102302,2026-08-02,Customer 2933,Small Business,East,Anita Rao,Safety Equipment,2,1910.56,0,3821.12,Net 30,Returned,15
+MER-102180,2026-08-27,Customer 3058,Mid-Market,South,Anita Rao,Power Tools,2,7191.51,8,22915.30,Net 60,Delivered,6
+MER-103064,2026-08-13,Customer 4623,SMB,North,Vikram Shah,Power Tools,2,7263.84,0,14527.68,Net 30,delivered,9
+MER-100370,2026-09-17,Customer 1263,SMB,South,Arjun Desai,Hand Tools,1,981.78,0,981.78,Net 30,Delivered,7
+MER-103794,2026-09-25,Customer 4410,Enterprise, North,Anita Rao,Lubricants,25,1353.37,8,31127.51,Prepaid,delivered,21
+MER-100543,2026-08-24,Customer 3171,Mid-Market,West,Vikram Shah,Pneumatics,2,5840.40,5,11096.76,Prepaid,PENDING,
+MER-101534,2026-09-06,Customer 2769,Mid-Market,North,Meera Iyer,Electricals,10,2654.47,8,24421.12,Net 30,DELIVERED,8
+MER-101620,2026-09-23,Customer 3217,Enterprise,North,Karan Bhatia,Electricals,50,2771.98,0,138599.00,Net 30,delivered,17
+MER-101219,2026-07-23,Customer 2435,Enterprise,South,Arjun Desai,Pneumatics,25,6107.00,10,137407.50,Net 60,delivered,13
+MER-102589,2026-07-09,Customer 3477,SMB,West,Sneha Kulkarni,Safety Equipment,2,1728.63,0,3457.26,Prepaid,Delivered,12
+MER-102720,2026-07-20,Customer 4918,Enterprise,East,Sneha Kulkarni,Pneumatics,25,5128.72,15,108985.30,Net 30,DELIVERED,10
+MER-100908,2026-09-20,Customer 2814,Enterprise,North,Priya Menon,Hand Tools,10,1010.41,0,10104.10,Net 60,Delivered,17
+MER-100322,2026-09-13,Customer 2680,SMB,West,Sneha Kulkarni,Bearings & Drives,2,4517.92,0,9035.84,Net 30,Returned,16
