@@ -180,7 +180,11 @@ def connect():
     # cache_discovery=False stops the library trying to write a cache file to
     # disk - pointless on a machine that is about to be destroyed, and it emits
     # warnings when the disk is read-only.
-    return build("drive", "v3", credentials=creds, cache_discovery=False)
+    #
+    # The email is returned too, so that a permission error further down can
+    # print the exact address the folder needs to be shared with.
+    drive = build("drive", "v3", credentials=creds, cache_discovery=False)
+    return drive, creds.service_account_email
 
 
 # =============================================================================
@@ -442,7 +446,27 @@ def main():
     if not ROOT_ID:
         sys.exit("DRIVE_ROOT_ID is not set")
 
-    drive = connect()
+    drive, robot_email = connect()
+
+    # ---- Can we actually SEE the folder we were pointed at? ----------------
+    # This check exists because of how Drive fails. Ask for the contents of a
+    # folder you cannot see and Google does not refuse - it returns an EMPTY
+    # LIST, exactly as though the folder were empty. Without this check, a
+    # mistyped id or a folder that was never shared produces the message
+    # "missing required folder: inbox/", which sends you looking in the wrong
+    # place entirely.
+    try:
+        root = drive.files().get(fileId=ROOT_ID, fields="id, name").execute()
+        log(f"watching folder: {root['name']}")
+    except HttpError:
+        sys.exit(
+            f"cannot see the folder {ROOT_ID}.\n"
+            f"  Two things to check, in this order:\n"
+            f"   1. Is DRIVE_ROOT_ID right? Copy it again from the folder's\n"
+            f"      web address: drive.google.com/drive/folders/THIS_PART\n"
+            f"   2. Did you share that folder with the robot, as Editor?\n"
+            f"      Its address is: {robot_email}"
+        )
 
     # ---- Find the folders by NAME, not by hard-coded id --------------------
     # So you can rearrange your Drive without editing this file. The cost is
